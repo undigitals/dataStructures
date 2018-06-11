@@ -8,3 +8,8 @@ Hash tables are one of the most useful data structures. Their quick and scalable
 * Hashing: Implementation of Hash Table
 * Key and Value
 * Hash function
+
+### Contents
+
+1. Introduction
+2. Hash table structure
